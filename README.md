@@ -55,8 +55,7 @@ If you use **EduStack** in your research, please cite:
 ```bibtex
 @article{edustack2025,
   title={EduStack: Reliable and Explainable Machine Learning for Student Dropout Prediction},
-  author={Your Name},
-  journal={Under Review},
+  author={REBBAH SIHAM},
   year={2025}
 }
 ```
